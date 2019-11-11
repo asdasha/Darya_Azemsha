@@ -1,0 +1,152 @@
+﻿@charset "utf-8";
+body{
+    font-size: 20px;
+   line-height: 30px;
+}
+h1 {
+    color: #6f1b0e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: lighter;
+    font-weight: bold;
+}
+
+#hello_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #6f1b0e;
+    text-indent: 50px;
+    line-height: 20px;
+    font-weight: lighter;
+}
+
+div#navbar{
+	padding:0px;
+	padding-bottom:12px;
+	border-top:thin;
+	border-top-color:#BBB;
+	border-top-style:dotted;
+	background-color:#FFF;
+}
+
+a.navigation {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000;
+	text-decoration:underline;
+}
+a.navigation:hover {
+	text-decoration:none;
+	color:#F60;
+}
+a.navigation:visited {
+	color:#000;
+}
+
+a.indexlink {
+    color: #6f1b0e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    border-bottom: thin;
+    border-bottom-style: dotted;
+    border-bottom-color: #444;
+    text-decoration: none;
+}
+a.indexlink:hover {
+	color:#F60;
+	border-bottom:none;
+}
+    a.indexlink:vizited {
+        color: #6f1b0e;
+        text-decoration: none;
+        border-bottom: thin;
+        border-bottom-style: dotted;
+        border-bottom-color: #444;
+    }
+
+table.book {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:lighter;
+	color:	#FFFFFF;/*#222;*/
+}
+
+a.booklink:link {
+	color:#39F;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-decoration:none;
+	border-bottom:thin;
+	border-bottom-style:dotted;
+	border-bottom-color:#39F;
+}
+a.booklink:hover{
+	border-bottom:none;
+}
+a.booklink:visited{
+	text-decoration:none;
+	border-bottom:thin;
+	border-bottom-color:#639;
+	color:#639;
+	border-bottom-style:dotted;
+}
+h4 {
+    /*color:#222;*/
+    color: #640909;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    line-height: normal;
+    font-weight: lighter;
+    text-indent: 0px;
+    padding: 10px;
+}
+
+h5 {
+    /*color:#222;*/
+    color: #640909;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold ;
+    text-indent: 0px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.glossary {
+    color: #6f1b0e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+p {
+    text-indent: 50px;
+    line-height: 18px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 25px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #6f1b0e;
+    padding-top: 100px;
+}
+
+h3 {
+    font-size: 18px;
+    color: #640909;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+li {
+    font-size: 20px;
+    line-height: 30px;
+}
+pre{
+   color: black;
+   font-size: 18px;
+}
